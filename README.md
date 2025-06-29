@@ -37,7 +37,7 @@ Nenhum requisito. Basta executar o arquivo
 Compatível com Windows 10 ou superior
 
 📦 Formas de Utilização
-✅ 1.Executável portátil (RenomeadorMusicas.exe)
+✅ 1.Executável portátil (Renomeador_de_Musicas.exe)
 Basta clicar duas vezes para executar
 
 Abre um terminal interativo solicitando o caminho da pasta
